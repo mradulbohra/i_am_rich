@@ -1,7 +1,8 @@
 # first_app
 
-A new Flutter project.
-
+<Hello World>
+  This is my first flutter project, which is basically a single screen application, Indian Version of "I Am Rich".
+  
 ## Getting Started
 
 This project is a starting point for a Flutter application.
