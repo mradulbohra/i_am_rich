@@ -1,4 +1,4 @@
-# first_app
+# i_am_rich
 
 <Hello World>
   This is my first flutter project, which is basically a single screen application, Indian Version of "I Am Rich".
